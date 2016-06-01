@@ -1,5 +1,5 @@
 /*
-Conzole 0.1
+Conzole 1.0.1
 by Pierluigi Pesenti
 */
 
@@ -79,7 +79,7 @@ by Pierluigi Pesenti
 				var help=document.createElement('div');
 				help.setAttribute('id', 'conzoleHelp');
 				help.style.display='none';
-				helpHTML='<p>version 0.1.0</p><p>by Pierluigi Pesenti<br /><a href="http://oaxoa.github.io/Conzole/">http://oaxoa.github.io/Conzole/</a></p>'+
+				helpHTML='<p>version 1.0.1</p><p>by Pierluigi Pesenti<br /><a href="http://oaxoa.github.io/Conzole/">http://oaxoa.github.io/Conzole/</a></p>'+
 				'<button id="conzoleBack" onclick="conzole.toggleHelp()">back</button>'+
 				'';
 				help.innerHTML=helpHTML;
