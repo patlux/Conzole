@@ -1,7 +1,7 @@
 {
   "name": "conzole",
   "main": "conzole.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://oaxoa.github.io/Conzole",
   "authors": [
     "Pierluigi Pesenti <info@oaxoa.com>"
