@@ -1,0 +1,32 @@
+{
+  "name": "conzole",
+  "version": "1.0.0",
+  "description": "A Javascript debugging panel written in Javascript",
+  "main": "conzole.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patlux/Conzole.git"
+  },
+  "keywords": [
+    "conzole",
+    "console",
+    "debug",
+    "panel",
+    "log",
+    "console.log",
+    "warn",
+    "info",
+    "error"
+  ],
+  "author": "Pierluigi Pesenti <info@oaxoa.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oaxoa/Conzole/issues"
+  },
+  "homepage": "https://github.com/Oaxoa/Conzole#readme"
+}
